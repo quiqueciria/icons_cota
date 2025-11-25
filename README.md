@@ -17,5 +17,6 @@ Visit [Mistica Storybook](https://mistica-web.now.sh/?path=/story/icons-mistica-
 Install Mistica Icons Library in Sketch from [Mistica Manager](https://telefonica.github.io/mistica/docs/design/start-using)
 # Icons 
 | Icon | name 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 | SVG | PDF |
-| :-: | :- | :-: | | :-: | 
-| ![icn_impresora](/icons/iconos%20_%20icn_impresora.svg) | `impresora`  |  [.svg](/icons/iconos%20_%20icn_impresora.svg)
+| :-: | :- | :-: | :-: |
+| ![icn_impresora](/icons/iconos%20_%20icn_impresora.svg) | `impresora`  |  [.svg](/icons/iconos%20_%20icn_impresora.svg) | [.pdf](icons/3.Filled/academic-filled.pdf) |  
+| ![academic-light](icons/academic-light.svg) | `academic-light`  |  [.svg](icons/academic-light.svg) | [.pdf](icons/1.Light/academic-light.pdf) |  
