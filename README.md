@@ -78,6 +78,7 @@
 | ![icn_mosaico.svg](/icons/icn_mosaico.svg) | `mosaico`  |  [.svg](/icons/icn_mosaico.svg) |
 | ![icn_mover.svg](/icons/icn_mover.svg) | `mover`  |  [.svg](/icons/icn_mover.svg) |
 | ![icn_notas.svg](/icons/icn_notas.svg) | `notas`  |  [.svg](/icons/icn_notas.svg) |
+| ![icn_notass.svg](/icons/icn_notass.svg) | `notass`  |  [.svg](/icons/icn_notass.svg) |
 | ![icn_notificar.svg](/icons/icn_notificar.svg) | `notificar`  |  [.svg](/icons/icn_notificar.svg) |
 | ![icn_ojo.svg](/icons/icn_ojo.svg) | `ojo`  |  [.svg](/icons/icn_ojo.svg) |
 | ![icn_ojoLine.svg](/icons/icn_ojoLine.svg) | `ojoLine`  |  [.svg](/icons/icn_ojoLine.svg) |
