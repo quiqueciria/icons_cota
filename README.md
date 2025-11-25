@@ -78,7 +78,6 @@
 | ![icn_mosaico.svg](/icons/icn_mosaico.svg) | `mosaico`  |  [.svg](/icons/icn_mosaico.svg) | ![icn_mosaico_white.svg](/icons/icn_mosaico_white.svg#gh-dark-mode-only) |
 | ![icn_mover.svg](/icons/icn_mover.svg) | `mover`  |  [.svg](/icons/icn_mover.svg) | ![icn_mover_white.svg](/icons/icn_mover_white.svg#gh-dark-mode-only) |
 | ![icn_notas.svg](/icons/icn_notas.svg) | `notas`  |  [.svg](/icons/icn_notas.svg) | ![icn_notas_white.svg](/icons/icn_notas_white.svg#gh-dark-mode-only) |
-| ![icn_notass.svg](/icons/icn_notass.svg) | `notass`  |  [.svg](/icons/icn_notass.svg) | ![icn_notass_white.svg](/icons/icn_notass_white.svg#gh-dark-mode-only) |
 | ![icn_notificar.svg](/icons/icn_notificar.svg) | `notificar`  |  [.svg](/icons/icn_notificar.svg) | ![icn_notificar_white.svg](/icons/icn_notificar_white.svg#gh-dark-mode-only) |
 | ![icn_ojo.svg](/icons/icn_ojo.svg) | `ojo`  |  [.svg](/icons/icn_ojo.svg) | ![icn_ojo_white.svg](/icons/icn_ojo_white.svg#gh-dark-mode-only) |
 | ![icn_ojoLine.svg](/icons/icn_ojoLine.svg) | `ojoLine`  |  [.svg](/icons/icn_ojoLine.svg) | ![icn_ojoLine_white.svg](/icons/icn_ojoLine_white.svg#gh-dark-mode-only) |
