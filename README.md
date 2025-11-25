@@ -125,6 +125,6 @@
 | ![icn_zoomMenos.svg](/icons/icn_zoomMenos.svg) | `zoomMenos`  |  [.svg](/icons/icn_zoomMenos.svg) |
 | ![icn_zoom_incid.svg](/icons/icn_zoom_incid.svg) | `zoom_incid`  |  [.svg](/icons/icn_zoom_incid.svg) |
 | ![icn_zoom_recuad.svg](/icons/icn_zoom_recuad.svg) | `zoom_recuad`  |  [.svg](/icons/icn_zoom_recuad.svg) |
-| ![iconos_icn_editarGeo.svg](/icons/iconos_icn_editarGeo.svg) | `iconos_icn_editarGeo`  |  [.svg](/icons/iconos_icn_editarGeo.svg) |
-| ![iconos_icn_editarGeoMarco.svg](/icons/iconos_icn_editarGeoMarco.svg) | `iconos_icn_editarGeoMarco`  |  [.svg](/icons/iconos_icn_editarGeoMarco.svg) |
+| ![icn_editarGeo.svg](/icons/icn_editarGeo.svg) | `editarGeo`  |  [.svg](/icons/icn_editarGeo.svg) |
+| ![icn_editarGeoMarco.svg](/icons/icn_editarGeoMarco.svg) | `editarGeoMarco`  |  [.svg](/icons/icn_editarGeoMarco.svg) |
 | ![pinterest.svg](/icons/pinterest.svg) | `pinterest`  |  [.svg](/icons/pinterest.svg) |        
