@@ -9,7 +9,7 @@ Todos los archivos siguen un patrón consistente:
 - **Versión deshabilitada**: `icn_nombre_disabled.svg` (ejemplo: `icn_actualizar_disabled.svg`)
 - **Versión default**: `icn_nombre_default.svg` (ejemplo: `icn_actualizar_default.svg`)
 
-Todos los iconos están optimizados para GitHub con formato SVG estándar (24x24px, viewBox 0 0 24 24).
+Todos los iconos están optimizados en formato SVG estándar (24x24px, viewBox 0 0 24 24).
 
 ### Versiones
 Hay 4 versiones de cada icono para que puedan ser usados en cada estado:
@@ -18,6 +18,7 @@ Hay 4 versiones de cada icono para que puedan ser usados en cada estado:
 - **Disabled**: ![#ced4da](https://img.shields.io/badge/-ced4da?style=flat&logoColor=black) Gris 40 #ced4da - Estados deshabilitados/inactivos
 - **Default**: ![#495057](https://img.shields.io/badge/-495057?style=flat&logoColor=white) Gris 70 #495057 - Estado neutro
 
+### Buscar
 El mejor camino para buscar en este repositorio es el motor de búsqueda de tu explorador (cmd / ctrl + f)
 
 
