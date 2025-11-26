@@ -126,4 +126,4 @@
 | ![icn_zoom_recuad.svg](/icons/icn_zoom_recuad.svg) | `zoom_recuad`  |  [.svg](/icons/icn_zoom_recuad.svg) | ![icn_zoom_recuad_white.svg](/icons/icn_zoom_recuad_white.svg#gh-dark-mode-only) |
 | ![icn_editarGeo.svg](/icons/icn_editarGeo.svg) | `editarGeo`  |  [.svg](/icons/icn_editarGeo.svg) | ![icn_editarGeo_white.svg](/icons/icn_editarGeo_white.svg#gh-dark-mode-only) |
 | ![icn_editarGeoMarco.svg](/icons/icn_editarGeoMarco.svg) | `editarGeoMarco`  |  [.svg](/icons/icn_editarGeoMarco.svg) | ![icn_editarGeoMarco_white.svg](/icons/icn_editarGeoMarco_white.svg#gh-dark-mode-only) |
-| ![pinterest.svg](/icons/pinterest.svg) | `pinterest`  |  [.svg](/icons/pinterest.svg) |        
+| ![pinterest.svg](/icons/pinterest.svg) | `pinterest`  |  [.svg](/icons/pinterest.svg) | ![pinterest_white.svg](/icons/pinterest_white.svg#gh-dark-mode-only) |        
