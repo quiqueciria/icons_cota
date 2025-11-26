@@ -1,4 +1,12 @@
-﻿# Iconss 
+﻿¿Qué es esto?
+
+Este repositorio contiene todos los iconos que se usan en el sistema de diseño Cota.
+
+El mejor camino para buscar en este repositorio es el motor de búsqueda de tu explorador (cmd / ctrl + f)
+
+
+
+# Iconos
 | Icon | name 　　　　　　　　　　　　　　　　　　　　　　| SVG | White | Disabled |
 | :-: | :- | :-: | :-: | :-: |
 | ![icn_actualizar.svg](/icons/icn_actualizar.svg) | `actualizar` |  [.svg](/icons/icn_actualizar.svg) | ![icn_actualizar_white.svg](/icons/icn_actualizar_white.svg#gh-dark-mode-only) | ![icn_actualizar_disabled.svg](/icons/icn_actualizar_disabled.svg) |
