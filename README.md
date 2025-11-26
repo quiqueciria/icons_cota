@@ -1,6 +1,13 @@
-﻿¿Qué es esto?
+﻿##¿Qué es esto?
 
 Este repositorio contiene todos los iconos que se usan en el sistema de diseño Cota.
+
+##Versiones
+Hay 3 versiones de cada icono para que puedan ser usados en cada estado:
+- Defecto: Negro #000000
+- White: Blanco #ffffff
+- Disabled: Gris #ced4da
+
 
 El mejor camino para buscar en este repositorio es el motor de búsqueda de tu explorador (cmd / ctrl + f)
 
