@@ -2,7 +2,7 @@
 
 Este repositorio contiene todos los iconos que se usan en el sistema de diseño Cota.
 
-### Nomenclatura de archivos
+### Nomenclatura de archivoss
 Todos los archivos siguen un patrón consistente:
 - **Icono principal**: `icn_nombre.svg` (ejemplo: `icn_actualizar.svg`)
 - **Versión blanca**: `icn_nombre_white.svg` (ejemplo: `icn_actualizar_white.svg`)
